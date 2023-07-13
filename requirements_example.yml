@@ -1,0 +1,17 @@
+name: popo
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - geopandas
+  - pygmt
+  - pip
+  - rasterio
+  - xarray
+  - gdal
+  - fiona
+  - matplotlib
+  - seaborn
