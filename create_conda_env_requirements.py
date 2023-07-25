@@ -2,8 +2,6 @@ import argparse
 import subprocess
 import os 
 import yaml
-from conda.base.context import context
-from conda.cli import common
 
 def create_conda_environment(env_path, requirements):
     
